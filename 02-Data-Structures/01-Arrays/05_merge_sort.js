@@ -1,4 +1,4 @@
-let array1 = [0, 3, 4, 31];
+let array1 = [0, 1, 2, 31];
 let array2 = [4, 6, 30, 2];
 
 function mergeSortArray(array1, array2) {
